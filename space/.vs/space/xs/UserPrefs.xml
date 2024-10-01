@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2F87286E-929D-B1A2-F27D-429B397C7F82}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../textBasedGame/Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/points.cs" Line="24" Column="1" />
+      <File FileName="Assets/GameManager.cs" Line="8" Column="19" />
+      <File FileName="../textBasedGame/Assets/GameManager.cs" Line="27" Column="29" />
+      <File FileName="Assets/BulletDamage.cs" Line="21" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
